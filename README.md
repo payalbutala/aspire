@@ -2,6 +2,10 @@
 
 A Demo Project for Aspire
 
+## Requirements
+
+NPM version 7 & above
+
 ## Install the dependencies
 
 ```bash
