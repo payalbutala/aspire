@@ -1,0 +1,205 @@
+{
+  "cards": [
+    {
+      "id": 1101,
+      "name": "Payal Vishal",
+      "cardNumber": 1101032017202200,
+      "validityDate": "03/24",
+      "cvvDetails": 111,
+      "isFreeze": false,
+      "transactionLimit": 100000,
+      "toPay": true,
+      "isReplace": false,
+      "isCancel": false,
+      "cardDetails": {
+        "cardStatus": "active",
+        "cardType": "Debit",
+        "rewardPoints": 111
+      },
+      "transactions": [
+        {
+          "id": 1,
+          "name": "Hamleys1",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 150,
+          "type": "credit",
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "name": "Hamleys2",
+          "category": "flights",
+          "date": "20 May 2020",
+          "amount": 250,
+          "type": "debit",
+          "color": "green"
+        },
+        {
+          "id": 3,
+          "name": "Hamleys3",
+          "category": "megaphone",
+          "date": "20 May 2020",
+          "amount": 350,
+          "type": "debit",
+          "color": "pink"
+        },
+        {
+          "id": 4,
+          "name": "Hamleys4",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 450,
+          "type": "debit",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "id": 2101,
+      "name": "Payal Butala",
+      "cardNumber": 8569632541257856,
+      "validityDate": "03/24",
+      "cvvDetails": 210,
+      "isFreeze": false,
+      "transactionLimit": 100000,
+      "toPay": true,
+      "isReplace": false,
+      "isCancel": false,
+      "cardDetails": {
+        "cardStatus": "active",
+        "cardType": "Debit",
+        "rewardPoints": 222
+      },
+      "transactions": [
+        {
+          "id": 1,
+          "name": "Hamleys1",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 2100,
+          "type": "credit",
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "name": "Hamleys2",
+          "category": "flights",
+          "date": "20 May 2020",
+          "amount": 2250,
+          "type": "debit",
+          "color": "green"
+        },
+        {
+          "id": 3,
+          "name": "Hamleys3",
+          "category": "megaphone",
+          "date": "20 May 2020",
+          "amount": 2350,
+          "type": "debit",
+          "color": "pink"
+        },
+        {
+          "id": 4,
+          "name": "Hamleys4",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 2450,
+          "type": "debit",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "id": 3101,
+      "name": "Vishal Payal",
+      "cardNumber": 4658256398741203,
+      "validityDate": "03/24",
+      "cvvDetails": 310,
+      "isFreeze": false,
+      "transactionLimit": 100000,
+      "toPay": true,
+      "isReplace": false,
+      "isCancel": false,
+      "cardDetails": {
+        "cardStatus": "active",
+        "cardType": "Debit",
+        "rewardPoints": 333
+      },
+      "transactions": [
+        {
+          "id": 1,
+          "name": "Hamleys1",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 3110,
+          "type": "credit",
+          "color": "blue"
+        },
+        {
+          "id": 2,
+          "name": "Hamleys2",
+          "category": "flights",
+          "date": "20 May 2020",
+          "amount": 3210,
+          "type": "debit",
+          "color": "green"
+        },
+        {
+          "id": 3,
+          "name": "Hamleys3",
+          "category": "megaphone",
+          "date": "20 May 2020",
+          "amount": 3310,
+          "type": "debit",
+          "color": "pink"
+        },
+        {
+          "id": 4,
+          "name": "Hamleys4",
+          "category": "file-storage",
+          "date": "20 May 2020",
+          "amount": 3410,
+          "type": "debit",
+          "color": "blue"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Vishal",
+      "cardNumber": 5433605739099192,
+      "validityDate": "05/28",
+      "cvvDetails": 424,
+      "isFreeze": false,
+      "transactionLimit": 1000000,
+      "toPay": false,
+      "isReplace": false,
+      "isCancel": false,
+      "cardDetails": {
+        "cardStatus": "active",
+        "cardType": "credit",
+        "rewardPoints": 0
+      },
+      "transactions": []
+    },
+    {
+      "id": 42,
+      "name": "Sample 2",
+      "cardNumber": 5445238881602211,
+      "validityDate": "12/27",
+      "cvvDetails": 696,
+      "isFreeze": false,
+      "transactionLimit": 1000000,
+      "toPay": false,
+      "isReplace": false,
+      "isCancel": false,
+      "cardDetails": {
+        "cardStatus": "active",
+        "cardType": "credit",
+        "rewardPoints": 0
+      },
+      "transactions": []
+    }
+  ]
+}

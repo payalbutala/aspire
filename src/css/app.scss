@@ -1,0 +1,62 @@
+@import './fonts.scss';
+
+// app global css in SCSS form
+body {
+  font-family: $Open-sans-regular;
+  background: $white;
+
+  @media (max-width: $mobile) {
+    padding-bottom: 75px;
+  }
+
+  &:not(.q-body--layout-animate) .q-layout--prevent-focus {
+    visibility: visible !important;
+    transform: initial !important;
+    top: auto !important;
+  }
+
+  /* Nullify CSS of Quasar */
+  .q-icon {
+    width: auto;
+  }
+
+  .q-btn {
+    min-height: auto;
+    min-width: auto;
+    padding: 0;
+    &::before {
+      content: none;
+    }
+  }
+
+  :focus-visible {
+    outline: none;
+  }
+
+  .q-ripple {
+    display: none;
+  }
+
+  // Global CSS
+  &.desktop {
+    .q-focus-helper {
+      display: none;
+    }
+  }
+
+  .q-d-display {
+    display: inline-block !important;
+
+    @media (max-width: $mobile) {
+      display: none !important;
+    }
+  }
+
+  .q-m-display {
+    display: none !important;
+
+    @media (max-width: $mobile) {
+      display: inline-block !important;
+    }
+  }
+}
